@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Subtle-Tea
 - 👀 I’m interested in Game Development & GameFi
 - 🌱 I’m currently working with Unity
-- 💞️ I’m looking to start my own indie game studio or work in the UK full-time
+- 💞️ I’m looking to start my own indie game studio
 - 📫 Reach me on Discord Moe#7356
 
 <!---
